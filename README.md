@@ -22,8 +22,6 @@ This is a beginner-friendly CRUD project to practice:
 ---
 
 
----
-
 ## 🛠️ Installation & Usage
 
 ### 1️⃣ Clone the repository
